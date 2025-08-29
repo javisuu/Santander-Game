@@ -61,7 +61,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: e24c5d5c7d031684e961e9d57e2e7cbb, type: 2}
+    m_Motion: {fileID: 7400000, guid: e4750f1cd6908e94c8b2fcd2e073f799, type: 2}
     m_Threshold: -1
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -69,8 +69,8 @@ BlendTree:
     m_DirectBlendParameter: MOV
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: e4750f1cd6908e94c8b2fcd2e073f799, type: 2}
-    m_Threshold: -0.5
+    m_Motion: {fileID: 7400000, guid: e24c5d5c7d031684e961e9d57e2e7cbb, type: 2}
+    m_Threshold: -0.1
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -300,7 +300,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: playerIddle
-  m_Speed: 2.5
+  m_Speed: 1.2
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -4522056702795548808}
